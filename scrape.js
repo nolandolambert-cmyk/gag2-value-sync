@@ -75,4 +75,5 @@ scrape();
 
   'Gnome': 'g_gnome', 'Invisibility Mushroom': 'g_invismushroom', 'Teleporter': 'g_teleporter',
   'Strawberry Sniper': 'g_strawberrysniper',
-};
+};node scrape.js
+
